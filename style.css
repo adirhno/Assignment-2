@@ -1,3 +1,4 @@
+/** @format */
 
 body {
   align-items: center;
@@ -41,7 +42,6 @@ section {
 
 .rightContent {
   text-align: center;
-  background-color: #8f9092;
   font-size: 18px;
   color: #e5e7eb;
   width: 440px;
@@ -50,8 +50,8 @@ section {
   margin-left: 70px;
 }
 
-.rightTxt {
-  margin-top: 100px;
+.machImg {
+  width: 40px;
 }
 
 .links {
@@ -62,7 +62,7 @@ section {
 .mainTxt {
   font-size: 48px;
   font-weight: bold;
-  color: #f9faf8;
+  color: #d1382a;
   height: 70px;
 }
 
@@ -98,7 +98,7 @@ section {
 }
 
 .imgBord {
- padding: 12px;
+  padding: 12px;
 }
 
 .img {
